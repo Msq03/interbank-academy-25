@@ -1,0 +1,20 @@
+{
+  "name": "interbank-academy-25",
+  "version": "1.0.0",
+  "description": "Desarrolla una aplicación de línea de comandos (CLI) que procese un archivo CSV con transacciones bancarias y genere un reporte que incluya:",
+  "main": "reporte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Msq03/interbank-academy-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Msq03/interbank-academy-25/issues"
+  },
+  "homepage": "https://github.com/Msq03/interbank-academy-25#readme"
+}
