@@ -11,8 +11,5 @@ Para instalar las dependencias solo deben ejecutar lo siguiente:
    npm install
   3. Run Project
    node reporte.js data.csv
-
-- **Enfoque y Solución:** Lógica implementada y decisiones de diseño.
-
 - **Estructura del Proyecto:**
-Agregue una clase reporte.js en la misma rama del archivo data.csv. Adicional a eso he creado el package.json para que puedan instalar las dependencias.
+Agregué una clase reporte.js en la misma rama del archivo data.csv. Adicional a eso he creado el package.json para que puedan instalar las dependencias.
